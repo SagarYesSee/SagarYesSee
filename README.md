@@ -35,7 +35,7 @@
   
   
 </div>
-
+<br>
 
 I'm a passionate computer science student with a keen interest in web designing and development, Python, and solving complex problems. 
 Here's a glimpse of what I bring to the table:
