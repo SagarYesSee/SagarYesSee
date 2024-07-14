@@ -23,12 +23,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40" width="52" alt="MongoDB logo"/>
   <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" height="40" width="52" alt="Express.JS logo"/>
-  <img src="https://img.icons8.com/?size=100&id=58811&format=png&color=000000" height="40" width="52" alt="ReactJS logo"/>
+  <img src="https://img.icons8.com/?size=100&id=t5K2CR8feVdX&format=png&color=000000" height="40" width="52" alt="ReactJS logo"/>
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="40" width="52" alt="NodeJS logo"/>
   <img src="https://orade.com/wp-content/uploads/2017/10/mysql_logo-705x705.png" height="40" width="52" alt="SQL logo"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40" width="52" alt="MongoDB logo"/>
+  <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" height="40" width="52" alt="Figma logo"  />
+  <img src="https://img.icons8.com/?size=100&id=qeQp8vgeqeEa&format=png&color=000000" height="40" width="52" alt="Adobexd logo"  />
   
   
   
