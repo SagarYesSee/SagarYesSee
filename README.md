@@ -8,6 +8,6 @@ Here's a glimpse of what I bring to the table:
 - 🧩 **Coding Challenges**: I thrive on solving puzzles and coding challenges.
 
 Let's connect! 
-Email : sagarsccse2025@gmail.com
+Email : sagarsc003@gmail.com
 
 ⚡ Fun fact: I believe technology can create positive impacts on society! 🌟
